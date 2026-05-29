@@ -1,4 +1,4 @@
-Sistema Inteligente de Gestión de Llantas
+##Sistema Inteligente de Gestión de Llantas
 Descripción
 
 "Soy ingeniero mecánico y he trabajado con operaciones industriales y de transporte. Identifiqué que el control de llantas es uno de los mayores costos operacionales de una flota, por lo que decidí aplicar analítica de datos para transformar información dispersa en indicadores de mantenimiento, trazabilidad y toma de decisiones."
