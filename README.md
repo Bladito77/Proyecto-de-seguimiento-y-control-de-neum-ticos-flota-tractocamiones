@@ -1,6 +1,9 @@
 Sistema Inteligente de Gestión de Llantas
 Descripción
 
+"Soy ingeniero mecánico y he trabajado con operaciones industriales y de transporte. Identifiqué que el control de llantas es uno de los mayores costos operacionales de una flota, por lo que decidí aplicar analítica de datos para transformar información dispersa en indicadores de mantenimiento, trazabilidad y toma de decisiones."
+
+
 Proyecto de Business Intelligence desarrollado para la gestión y trazabilidad de llantas en flotas de transporte pesado.
 
 La solución integra una base de datos MySQL y un dashboard interactivo desarrollado en Power BI para analizar desgaste, mantenimiento, movimientos operacionales, vida útil y costos asociados a las llantas.
@@ -33,7 +36,9 @@ Power BI
 Dashboard Ejecutivo
 Descripción del Modelo Relacional
 
-Aquí es donde puedes explicar el diagrama que adjuntaste.
+Diagrama que Relacional.
+
+"El modelo fue diseñado para representar el ciclo de vida completo de una llanta dentro de una flota de transporte pesado. Partimos de entidades maestras como vehículos, rutas, posiciones y referencias de llanta. A partir de ellas se registran viajes, montajes, inspecciones, movimientos y eventos mecánicos, permitiendo realizar trazabilidad completa desde la instalación hasta el final de la vida útil. Este modelo soporta tanto el análisis operativo como el análisis financiero mediante indicadores de desgaste, costo por kilómetro y rendimiento por marca."
 
 <img width="1085" height="873" alt="image" src="https://github.com/user-attachments/assets/7bc42d96-c5ee-4ffb-8331-730ba94ebd14" />
 
@@ -237,6 +242,15 @@ Durante la simulación se generaron aproximadamente:
 882 eventos mecánicos
 
 Lo anterior permitió construir escenarios realistas de análisis para una flota de transporte pesado.
+
+## Resultados de la simulación
+
+- 3.656 viajes simulados
+- 47.422 registros operacionales
+- 21.930 movimientos de llantas
+- 8.276 inspecciones
+- 882 eventos mecánicos
+- Proyección operacional de 3 años
 
 
 
